@@ -1,7 +1,7 @@
 # PORTFOLIO
 Personal portfolio showcasing my frontend projects, UI designs, and web development skills using HTML, CSS, and modern best practices.
 
-🚀 Features
+# 🚀 Features
 
 Responsive navigation bar with modern UI
 
@@ -14,14 +14,14 @@ Clean and minimal layout inspired by real-world applications
 Beginner-friendly and easy to understand structure
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 HTML5 – Semantic structure and layout
 
 CSS3 – Styling, Flexbox, animations, hover effects
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-PORTFOLIO-website/
+------------------------------------------------------------------------------------------------------------------------------
+# PORTFOLIO-website/
 
 │── index.html      #Main HTML file
 
@@ -35,12 +35,12 @@ PORTFOLIO-website/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📁 Open the Project Folder
+# 📁 Open the Project Folder
 
 cd PORTFOLIO
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-▶️ Run the Project
+# ▶️ Run the Project
 
 Open index.html in your browser
 
