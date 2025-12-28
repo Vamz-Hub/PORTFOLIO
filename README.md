@@ -21,12 +21,14 @@ HTML5 – Semantic structure and layout
 CSS3 – Styling, Flexbox, animations, hover effects
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 restaurant-website/
 │── index.html      # Main HTML file
 │── styles.css      # Styling for the UI
 │── Images/         # Images of food items and assets
 │── README.md       # Project documentation
 │── LICENSE         # MIT License
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📁 Open the Project Folder
