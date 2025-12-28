@@ -23,9 +23,13 @@ CSS3 – Styling, Flexbox, animations, hover effects
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 restaurant-website/
 │── index.html      #Main HTML file
+
 │── styles.css      #Styling for the UI
+
 │── Images/         #Images of myphoto.jpg and assets
+
 │── README.md       #Project documentation
+
 │── LICENSE         #MIT License
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
