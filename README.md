@@ -21,7 +21,8 @@ HTML5 – Semantic structure and layout
 CSS3 – Styling, Flexbox, animations, hover effects
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-restaurant-website/
+PORTFOLIO-website/
+
 │── index.html      #Main HTML file
 
 │── styles.css      #Styling for the UI
