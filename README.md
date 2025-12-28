@@ -21,7 +21,7 @@ HTML5 – Semantic structure and layout
 CSS3 – Styling, Flexbox, animations, hover effects
 
 ------------------------------------------------------------------------------------------------------------------------------
-# PORTFOLIO-website/
+# PORTFOLIO Structure
 
 │── index.html      #Main HTML file
 
